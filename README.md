@@ -81,9 +81,7 @@ The main optimization stage uses **Fast-SA** with four perturbation operations:
 
 The cost function is defined as:
 
-\[
-F = \alpha \cdot \frac{W}{W_{norm}} + (1-\alpha) \cdot P
-\]
+F = α × (W / W_norm) + (1 - α) × P
 
 where:
 
